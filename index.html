@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Knights</title>
+    <link rel="stylesheet" href="Login 2.css">
+    
+</head>
+
+<body>
+
+
+
+     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+    <div id="navbar">
+        <a href="AfterLogIn.html"><i class="fa fa-fw fa-home"></i>Home</a>
+        <a href="#news"><i class="fa fa-fw fa-search"></i>Search</a>
+        <a href="#contact"><i class="fa fa-fw fa-envelope"></i>Contact</a>
+        <a href="OnlyLoginPage.html"><i class="fa fa-fw fa-user"></i> Login</a>
+        
+    </div>
+
+    
+
+    <div class="Heading">
+        <h1>Welcome to Dark Knights</h1>
+    </div>
+
+    <div class="AboutUs">
+        <h3>
+            About us
+        </h3>
+
+
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem excepturi commodi ipsum quas, incidunt temporibus. Minima consectetur ab inventore dignissimos perferendis, veniam, rerum maiores, non temporibus repellendus magnam dolorem voluptates?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe quos deleniti a ratione iste maiores consequuntur ullam, aliquid in, corrupti ducimus laudantium iure officiis accusamus! Pariatur quae rerum vel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem excepturi commodi ipsum quas, incidunt temporibus. Minima consectetur ab inventore dignissimos perferendis, veniam, rerum maiores, non temporibus repellendus magnam dolorem voluptates?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe quos deleniti a ratione iste maiores consequuntur ullam, aliquid in, corrupti ducimus laudantium iure officiis accusamus! Pariatur quae rerum vel.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+
+
+        </p>
+
+    </div>
+    <br>
+    
+
+
+    <div class="Math">
+        <a href="YouNeedToSignInPage.html">
+            <div style="position: absolute; left: 80px; top: 500x; margin-top: 45px;" class="link link-two shrink-on-hover">
+                <img src="Math 2.png" width="92" height="92">
+            </div>
+        </a>
+    </div>
+    
+
+    <div class="Science">
+        <a href="YouNeedToSignInPage.html">
+            <div style="position: absolute; left: 300px; top: 500x; margin-top: 25px; " class="link link-two shrink-on-hover">
+                <img src="Physics.png" width="140" height="140">
+            </div>
+        </a>
+       
+    </div>
+
+    <div class="Chemistry">
+        <a href="YouNeedToSignInPage.html">
+            <div style="position: absolute; left: 520px; top: 500x; margin-top: 25px; " class="link link-two shrink-on-hover">
+                <img src="Chemistry.png" width="135" height="135">
+            </div>
+        </a>
+    </div>
+
+    <div class="Biology">
+        <a href="YouNeedToSignInPage.html">
+            <div style="position: absolute; left:740px; top: 500x; margin-top: 25px; " class="link link-two shrink-on-hover">
+                <img src="Biology.png" width="135" height="135">
+            </div>
+        </a>
+    </div>
+
+    <div class="CLickingThingy">
+        <h5>
+            Click any one of these to go to our subject related sites ↑
+        </h5>
+        
+    </div>
+    <div class = "MoreAboutUs">
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem excepturi commodi ipsum quas, incidunt temporibus. Minima consectetur ab inventore dignissimos perferendis, veniam, rerum maiores, non temporibus repellendus magnam dolorem voluptates?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe quos deleniti a ratione iste maiores consequuntur ullam, aliquid in, corrupti ducimus laudantium iure officiis accusamus! Pariatur quae rerum vel.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!</font>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem excepturi commodi ipsum quas, incidunt temporibus. Minima consectetur ab inventore dignissimos perferendis, veniam, rerum maiores, non temporibus repellendus magnam dolorem voluptates?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe quos deleniti a ratione iste maiores consequuntur ullam, aliquid in, corrupti ducimus laudantium iure officiis accusamus! Pariatur quae rerum vel.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+    
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem excepturi commodi ipsum quas, incidunt temporibus. Minima consectetur ab inventore dignissimos perferendis, veniam, rerum maiores, non temporibus repellendus magnam dolorem voluptates?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe quos deleniti a ratione iste maiores consequuntur ullam, aliquid in, corrupti ducimus laudantium iure officiis accusamus! Pariatur quae rerum vel.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+    
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo corporis, enim ex provident accusamus sequi id consectetur adipisci sapiente dolores rerum maiores rem sunt nisi in necessitatibus est quos mollitia.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem excepturi commodi ipsum quas, incidunt temporibus. Minima consectetur ab inventore dignissimos perferendis, veniam, rerum maiores, non temporibus repellendus magnam dolorem voluptates?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa saepe quos deleniti a ratione iste maiores consequuntur ullam, aliquid in, corrupti ducimus laudantium iure officiis accusamus! Pariatur quae rerum vel.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis incidunt et beatae sunt amet labore molestiae, nostrum qui minima enim quia officia. Quos corrupti debitis voluptatibus fugiat iste consequuntur voluptate!
+
+    
+    </p>
+    </div>
+    
+
+    
+    <script>
+        
+        window.onscroll = function() {scrollFunction()};
+
+            function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("navbar").style.top = "0";
+            } else {
+                document.getElementById("navbar").style.top = "-50px";
+            }
+            }
+       </script>  
+
+
+        
+</body>
+
+</html>

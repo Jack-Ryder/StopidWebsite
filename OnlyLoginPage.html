@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="OnlyLoginPage.css">
+    
+    
+</head>
+<body>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <div id="navbar">
+        <a href="AfterLogIn.html"><i class="fa fa-fw fa-home"></i>Home</a>
+        <a href="#news"><i class="fa fa-fw fa-search"></i>Search</a>
+        <a href="#contact"><i class="fa fa-fw fa-envelope"></i>Contact</a>
+        <a href="Login 2.html"><i class="fa fa-fw fa-user"></i> Log out</a>
+        <a href="AccountOptions.html" ><i class="fa fa-fw fa-user" ></i> Options</i></a>
+    </div>
+    
+
+    <main id="main-holder">
+        <h1 id="login-header" style="color: rgb(189, 189, 189);">Login to access more things! </h1>
+        <img src="Key image.png" alt="" style="width: 150px; height: 150px; ">
+            
+        <div id="login-error-msg-holder">
+            <p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
+        </div>
+            
+        <form id="login-form">
+            <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username" style="width: 180px; height: 30px;">
+            <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password" style="width: 180px; height: 30px;">
+            <input type="submit" value="Login" id="login-form-submit">
+        </form>
+          
+        </main>
+
+    <script>
+        const loginForm = document.getElementById("login-form");
+        const loginButton = document.getElementById("login-form-submit");
+        const loginErrorMsg = document.getElementById("login-error-msg");
+
+        loginButton.addEventListener("click", (e) => {
+            e.preventDefault();
+            const username = loginForm.username.value;
+            const password = loginForm.password.value;
+
+            if (username === "Ganesh" && password === "Ganesh#2008") {
+                alert("You have successfully logged in.");
+                location.reload();
+                window.location.replace("AfterLogIn.html");
+            } else {
+                loginErrorMsg.style.opacity = 1;
+                setTimeout(() => {  location.reload(); }, 2000);
+            }
+        })
+
+
+    </script>
+    <script>
+            
+            window.onscroll = function() {scrollFunction()};
+
+                function scrollFunction() {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    document.getElementById("navbar").style.top = "0";
+                } else {
+                    document.getElementById("navbar").style.top = "-50px";
+                }
+                }
+    </script>  
+</body>
+</html>
